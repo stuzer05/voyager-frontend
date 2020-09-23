@@ -56,5 +56,5 @@
             "@php artisan vendor:publish --provider=Laravel\\Scout\\ScoutServiceProvider",
             "@php artisan vendor:publish --provider=Spatie\\Sitemap\\SitemapServiceProvider --tag=config"
         ]
-    },
+    }
 }

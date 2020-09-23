@@ -1,5 +1,5 @@
 {
-    "name": "pvtl/voyager-frontend",
+    "name": "stuzer05/voyager-frontend",
     "description": "The Missing Front-end for The Missing Laravel Admin.",
     "keywords": [
         "laravel",
@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "pvtl/voyager-pages": "^0.2.13",
+        "stuzer05/voyager-pages": "^0.2.13",
         "pvtl/voyager-blog": "^0.2.10",
         "tcg/voyager": "^1.3",
         "spatie/laravel-sitemap": "^5.7",
@@ -56,5 +56,5 @@
             "@php artisan vendor:publish --provider=Laravel\\Scout\\ScoutServiceProvider",
             "@php artisan vendor:publish --provider=Spatie\\Sitemap\\SitemapServiceProvider --tag=config"
         ]
-    }
+    },
 }

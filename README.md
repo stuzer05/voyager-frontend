@@ -1,5 +1,8 @@
 # Voyager Frontend
 
+## Why fork?
+- Removed automatic routes registration (use `\Pvtl\VoyagerFrontend\Facades\VoyagerFrontend::routes();` in web.php instead)
+
 ![Voyager Frontend Screenshot](/readme-intro.jpg)
 
 __The Missing Frontend for The Missing Laravel Admin.__

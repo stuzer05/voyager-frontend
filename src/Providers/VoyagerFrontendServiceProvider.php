@@ -33,7 +33,7 @@ class VoyagerFrontendServiceProvider extends ServiceProvider
     public function boot(Request $request)
     {
         $this->strapEvents();
-        $this->strapRoutes();
+        // $this->strapRoutes();
         $this->strapPublishers();
         $this->strapViews($request);
         $this->strapHelpers();

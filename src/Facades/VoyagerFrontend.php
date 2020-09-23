@@ -10,4 +10,9 @@ class VoyagerFrontend extends Facade
     {
         return 'voyager-frontend';
     }
+
+    public static function routes()
+    {
+        require __DIR__.'/../../routes/web.php';
+    }
 }

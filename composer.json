@@ -18,7 +18,7 @@
     "require": {
         "stuzer05/voyager-pages": "^0.2.13",
         "pvtl/voyager-blog": "^0.2.10",
-        "stuzer05/voyager": "^1.3",
+        "stuzer05/voyager": "dev-devel",
         "spatie/laravel-sitemap": "^5.7",
         "teamtnt/laravel-scout-tntsearch-driver": "^11.0"
     },

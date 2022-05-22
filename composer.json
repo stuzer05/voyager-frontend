@@ -19,7 +19,7 @@
         "stuzer05/voyager-pages": "dev-master",
         "stuzer05/voyager-blog": "dev-master",
         "stuzer05/voyager": "dev-devel",
-        "spatie/laravel-sitemap": "^5.7",
+        "spatie/laravel-sitemap": "^6.1",
         "teamtnt/laravel-scout-tntsearch-driver": "^11.0"
     },
     "require-dev": {
